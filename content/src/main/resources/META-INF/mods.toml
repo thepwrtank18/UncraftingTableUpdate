@@ -1,12 +1,12 @@
 modLoader="javafml" #mandatory
 loaderVersion="[31,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
-issueTrackerURL="http://my.issue.tracker/" #optional
+issueTrackerURL="https://github.com/thepwrtank18/UncraftingTableUpdate/issues" #optional
 
 [[mods]] #mandatory
 modId="uncrafting" #mandatory
 version="1.15.2-1.0.0" #mandatory
 displayName="Uncrafting Table" #mandatory
-displayURL="http://example.com/" #optional
+displayURL="https://github.com/thepwrtank18/UncraftingTableUpdate/" #optional
 credits="jglrxavpok for making the textures, TurtyWurty for making a modding tutorial" #optional
 authors="TheTank20" #optional
 description='''
