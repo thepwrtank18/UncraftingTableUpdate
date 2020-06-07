@@ -12,14 +12,14 @@ authors="TheTank20" #optional
 description='''
 A version of the Uncrafting Table for Minecraft 1.15.2.
 '''
-[[dependencies.examplemod]] #optional
+[[dependencies.uncrafting]] #optional
     modId="forge" #mandatory
     mandatory=true #mandatory
     versionRange="[31,)" #mandatory
     ordering="NONE"
     side="BOTH"
 
-[[dependencies.examplemod]]
+[[dependencies.uncrafting]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.15.2]"
